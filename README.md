@@ -1,4 +1,3 @@
-<!-- fallback_CryptoWay_20260613092040_87908 -->
 
 # CryptoWay: Decentralized Secure Multi-Party Computation enables Real-Time Data Encryption in Scalable Intelligent Distributed Ledger Ecosystem Suite Implementation
 > Advanced python solution leveraging modern architecture patterns and cutting-edge technology.
